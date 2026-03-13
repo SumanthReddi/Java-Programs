@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-package Collections;
+package Collections.Map;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

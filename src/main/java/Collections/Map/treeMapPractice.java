@@ -1,5 +1,5 @@
 
-package Collections;
+package Collections.Map;
 
 import java.util.Map;
 import java.util.TreeMap;
